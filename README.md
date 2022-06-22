@@ -16,7 +16,12 @@ ___
 
 ## Interfejs[^ui]
 
-<img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/74451381/175053535-89005812-ebc7-4d07-a796-a114365f8d03.jpg">
+<p align="center">
+  <b>Okno aplikacji</b></br></br>
+  <img width="750" height="450" src="https://user-images.githubusercontent.com/74451381/175053535-89005812-ebc7-4d07-a796-a114365f8d03.jpg"></br>
+</p>
+
+___
 
 ### Klienci
 Odzwierciedleniem klientów w interfejsie są nadjeżdżające samochody w odpowiednim kolorze, 
@@ -30,8 +35,6 @@ z czego każdy coś oznacza:
 
 #### zielony 
 > Samochód zatankowany, rozliczony, wyjeżdża ze stacji
-
-___
 
 ### Panel sterowania
 #### Przyciski
