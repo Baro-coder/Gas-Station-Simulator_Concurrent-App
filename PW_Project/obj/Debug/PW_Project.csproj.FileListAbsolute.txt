@@ -1,0 +1,10 @@
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\bin\Debug\PW_Project.exe.config
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\bin\Debug\PW_Project.exe
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\bin\Debug\PW_Project.pdb
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\obj\Debug\PW_Project.csproj.AssemblyReference.cache
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\obj\Debug\PW_Project.MainForm.resources
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\obj\Debug\PW_Project.Properties.Resources.resources
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\obj\Debug\PW_Project.csproj.GenerateResource.cache
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\obj\Debug\PW_Project.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\obj\Debug\PW_Project.exe
+D:\PROJECTS\Projects_Coding\C#_Projects\PW_Project\PW_Project\obj\Debug\PW_Project.pdb
