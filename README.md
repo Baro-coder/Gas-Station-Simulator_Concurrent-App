@@ -34,16 +34,20 @@ z czego każdy coś oznacza:
 ___
 
 ### Panel sterowania
+#### Przyciski
 Panel zawiera dwa przyciski: 
 - **START** - rozpoczyna symulację,
 - **RESET** - po zakończonej symulacji przygotowuje program do kolejnej symulacji.
 
+#### Scrollbar
 Dostępny jest również **scrollbar**, umożliwiający dobór ilości procesów sekwecyjnych 
 (klientów) do wywołania w przedziale <1, 80>.
 
+#### Czas symulacji
 Użytkownik ma również dostęp do wglądu w **czas symulacji** liczony od kliknięcia przycisku
 **START** do zakończenia działania wszystkich utworzonych procesów sekwencyjnych.
 
+#### Pasek postępu
 **Pasek postępu** informuje graficznie użytkownika o ilości pozostałych wątków, których
 liczba jest wyświetlana powyżej **czasu symulacji**.
 
